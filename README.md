@@ -17,6 +17,9 @@ This repository contains a collection of SQL scripts created as exercises for va
 
 The codes in this repository are based on the online course by Luke Barousse, which can be found [here](https://www.lukebarousse.com/sql). However, the code may not be an exact copy, as I made some adjustments and played around with the examples to explore and experiment further! ✨ This course is perfect for brushing up on your SQL coding knowledge in a very smooth and engaging way. 😄
 
+## 📊 Data
+The data used in this repository can be accessed via this [Google Drive link](https://drive.google.com/drive/folders/1egWenKd_r3LRpdCf4SsqTeFZ1ZdY3DNx). Feel free to download it and use it alongside the SQL scripts for hands-on practice.
+
 This repository serves as a quick reference and practice tool for SQL coding, offering examples of common scenarios encountered in database management and querying. 📊
 
 Feel free to explore, clone, and use these examples for your personal learning and development. Feedback and contributions are welcome to improve the repository further. 💡
